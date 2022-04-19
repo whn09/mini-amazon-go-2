@@ -1,0 +1,1 @@
+python train.py --data-path /home/ec2-user/SageMaker/data/retail_product_checkout/crop_images --model resnet50 --batch-size 128

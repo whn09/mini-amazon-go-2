@@ -1,0 +1,1 @@
+python train.py --data-path /home/ec2-user/SageMaker/data/rp2k/all --model resnet50 --batch-size 128
